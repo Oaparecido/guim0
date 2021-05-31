@@ -1,8 +1,8 @@
 <img align="right" width="300px" src="./img/miranha.png">
 
-<img align="right" width="300px" src="./img/be_yourself.png">
+<img align="right" width="500px" src="./img/be_yourself.png">
 
-<h1 align="center" weight="bold">🔥 Welcome to my github page 🔥</div>
+# 🔥 Welcome to my github page 🔥
 
 ## 🎉 This is my **mantra**
 **I am a frontend developer nowadaysand looking forward to learn even more!**
