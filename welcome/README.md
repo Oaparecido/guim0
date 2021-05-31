@@ -1,7 +1,7 @@
 
-<h1 style="text-align:center; font-weight:bold">🔥 Welcome to my github page 🔥</div>
+<img align="right" style="width:300px" src="./img/miranha.png">
 
-<img align="center" src="./img/be_yourself-removebg-preview.png">
+<h1 style="text-align:center; font-weight:bold">🔥 Welcome to my github page 🔥</div>
 
 ## 🎉 This is my **mantra**
 **I am a frontend developer nowadaysand looking forward to learn even more!**
@@ -15,3 +15,12 @@
 )
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 )
+
+
+
+
+
+
+
+
+
