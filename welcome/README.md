@@ -2,7 +2,7 @@
 
 <img align="left" width="300px" src="./img/miranha.png">
 
-<h1 style="text-align:center; font-weight:bold">🔥 Welcome to my github page 🔥</div>
+<h1 align="center" weight="bold">🔥 Welcome to my github page 🔥</div>
 
 ## 🎉 This is my **mantra**
 **I am a frontend developer nowadaysand looking forward to learn even more!**
