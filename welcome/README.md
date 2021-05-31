@@ -1,6 +1,6 @@
 <img align="right" width="300px" src="./img/miranha.png">
 
-<img align="left" width="300px" src="./img/miranha.png">
+<img align="right" width="300px" src="./img/be_yourself.png">
 
 <h1 align="center" weight="bold">🔥 Welcome to my github page 🔥</div>
 
