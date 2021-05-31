@@ -1,4 +1,4 @@
-<img align="right" width="200px" src="./img/miranha.png">
+<img align="right" width="250px" src="./img/miranha.png">
 
 <h1 style="text-align:center; font-weight:bold">🔥 Welcome to my github page 🔥</div>
 
