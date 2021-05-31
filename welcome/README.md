@@ -1,6 +1,6 @@
-<img align="center" src="./img/be_yourself-removebg-preview.png">
+<div style="text-align:center"><img src="./img/be_yourself-removebg-preview.png"></div>
 
-<h1 style="text-align:center; font-weight:bold">🔥 Welcome to my github page 🔥</div>
+<h1 style="text-align:center; font-weight:bold">🔥 Welcome to my github page 🔥</h1>
 
 ## 🎉 This is my **mantra**
 **I am a frontend developer nowadaysand looking forward to learn even more!**
