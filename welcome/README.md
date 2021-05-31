@@ -1,5 +1,8 @@
 <img align="right" width="300px" src="./img/miranha.png">
 
+<img align="left" width="300px" src="./img/miranha.png">
+
+
 <h1 style="text-align:center; font-weight:bold">🔥 Welcome to my github page 🔥</div>
 
 ## 🎉 This is my **mantra**
